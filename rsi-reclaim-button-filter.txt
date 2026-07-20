@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: RSI Website Reclaim Button Element Filter
+! Description: Hides the reclaim link/button on robertsspaceindustries.com
+! Last modified: 2026-07-21
+
+
+robertsspaceindustries.com##.shadow-button.trans-02s.trans-color.js-reclaim.reclaim.rm
